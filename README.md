@@ -4,8 +4,8 @@ In your terminal:
 g++ RandomIntGen.cpp
 ./a.out
 ```
-- Input the number of random ints you want created (10000 to 50000 is good)
-- A text file containing the random unsorted ints will be generated in the same directory
+- Input the number of random ints you want created.
+- A text file containing the random unsorted ints will be generated in the same directory. (Start with 10000 to 50000. If your times in gprof or cProfile show as 0.0, try 100000+ which will take a long time!)
 - Move this text file to be in the same directory as the sorting algorithm being tested or vice-versa.
 
 # Using gprof for C++ programs
