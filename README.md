@@ -23,8 +23,3 @@ For this example I will use the MergeSort.py program. In your terminal:
 python -m cProfile MergeSort.py
 ```
 The profile will be displayed in the terminal when complete.
-
-# TO DO
-- Add Merge Sort
-- Add Quick Sort
-- Add Selection Sort
